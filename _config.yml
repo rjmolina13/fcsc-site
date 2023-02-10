@@ -10,21 +10,26 @@
 ############################
 
 # Name of website
-title: My Website
+title: FCSC
 
 # Your name to show in the footer
-author: Some Person
+author: Ronanj Molina
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Organizations: "orgs"
+    - SBOs: "sbos"
+    - Sub-Orgs: "suborgs"
+    - All Orgs: "allorgs"
+  Papers: 
+    - CBL: "consti"
+    - Issuances: "issuances"
+    - Memorandum: "memos"
+    - Resolutions: "memos"
+  About Us: "about"
 
 ################
 # --- Logo --- #
@@ -32,7 +37,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/fscs_logo_hq.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -51,11 +56,11 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: https://web.facebook.com/catsufcsc/
+  github: https://github.com/rjmolina13/fcsc.github.io
+  # twitter: daattali
+  # patreon: DeanAttali
+  # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -94,7 +99,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
