@@ -28,7 +28,7 @@ navbar-links:
     - CBL: "consti"
     - Issuances: "issuances"
     - Memorandum: "memos"
-    - Resolutions: "memos"
+    - Resolutions: "resos"
   About Us: "about"
 
 ################
