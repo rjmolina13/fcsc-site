@@ -10,7 +10,7 @@ The **University Student Council** (USC) is the highest governing student body o
 Our office is located at: __Student Pavillion, CatSU, Calatagan, Virac, Catanduanes__.
 The Student Pavillion is besides *CHS* and it is in front of the *Gymnasium*.
 
-<iframe src="https://www.google.com/maps/place/CSC+Main+Entrance+Rd,+Virac,+Catanduanes/@13.583332,124.2109177,3a,75y,174.39h,77.28t/data=!3m6!1e1!3m4!1sBl0KVSSxKsZ1WYhedxXwUg!2e0!7i13312!8i6656!4m7!3m6!1s0x33a016ef9a06e9a9:0xeacd817b484fb300!8m2!3d13.5830069!4d124.2109147!10e5!16s%2Fg%2F11c4ss3jbp!5m1!1e4?entry=ttu." width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d261.95698931234546!2d124.21077790719542!3d13.583006900000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a016ef9a06e9a9%3A0xeacd817b484fb300!2sCSC%20Main%20Entrance%20Rd%2C%20Virac%2C%20Catanduanes!5e1!3m2!1sen!2sph!4v1685523959187!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="1" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 # Contact Us
