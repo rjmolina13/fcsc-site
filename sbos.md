@@ -1,12 +1,12 @@
-## SBOs
+## CSCs
 
-Student Body Organizations or SBOs operate at every college department. Every college has one and can only have one.
+College Student Councils or CSCs operate at every college department. Every college has one and can only have one.
 
-- College of Agriculture and Fisheries - Student Body Organization **(CAF-SBO)**
-- College of Arts and Sciences - Student Body Organization **(CASSBO)**
-- College of Business and Accountancy - Student Body Organization **(CBA-SBO)**
-- College of Education Student Organization **(CESO)**
-- College of Engineering and Architecture - Student Body Organization **(EASBO)**
-- College of Health Sciences - Student Body Organization **(CHS-SBO)**
-- College of Industrial Technology - Student Body Organization **(CIT-SBO)**
+- College of Agriculture and Fisheries - College Student Council **(CAF-CSC)**
+- College of Arts and Sciences - College Student Council **(CAS-CSC)**
+- College of Business and Accountancy - College Student Council **(CBA-CSC)**
+- College of Education - College Student Council **(CESO-CSC)**
+- College of Engineering and Architecture - College Student Council **(CEA-CSC)**
+- College of Health Sciences - College Student Council **(CHS-CSC)**
+- College of Industrial Technology - College Student Council **(CIT-CSC)**
 - College of Information & Communication Technology - College Student Council **(CICT-CSC)**
