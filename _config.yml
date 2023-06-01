@@ -44,7 +44,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/USC_logo-trans-outline.png.png"
+title-img: "/assets/img/USC_logo-trans-outline.png"
 
 
 #####################################
@@ -145,7 +145,7 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/catsu_bg.jpg"
+# navbar-img: "/assets/img/catsu_bg.jpg"
 footer-img: "/assets/img/catsu_bg.jpg"
 #page-img: "/assets/img/bgimage.png"
 
@@ -252,7 +252,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Asia/Manila"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
