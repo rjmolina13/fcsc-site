@@ -1,14 +1,14 @@
 ---
 layout: post
 title: New Website Launch
-subtitle: USC launches new website
+subtitle: USC launches new website powered by GitHub Pages
 # cover-img: /assets/img/USC_logo-bk.png
 thumbnail-img: /assets/img/USC_logo-bk.png
 share-img: /assets/img/USC_logo-bk.png
 tags: [website, blog]
 ---
 
-The **University Student Council (USC)** is thrilled to announce the launch of a groundbreaking platform designed to enhance accessibility and transparency within its organization. This innovative initiative aims to provide students with a comprehensive index/catalog of essential documents such as issuances, constitutions, resolutions, and memoranda, including the Constitution and By-Laws (CBL). By consolidating these vital resources into one centralized location, the USC is empowering its student body with easy access to the information they need.
+The **University Student Council (USC)** is thrilled to announce the launch of a groundbreaking platform designed to enhance accessibility and transparency within its organization. This innovative initiative aims to provide students with a comprehensive index/catalog of essential documents such as issuances, constitutions, resolutions, and memos, including the Constitution and By-Laws (CBL). By consolidating these vital resources into one centralized location, the USC is empowering its student body with easy access to the information they need.
 
 The new platform, powered by GitHub Pages, offers a seamless browsing experience for students. Leveraging the reliability and versatility of GitHub Pages, the USC has created a site that encourages active participation and community engagement. Students can confidently navigate the platform to retrieve the relevant documents they seek, breaking down barriers and fostering a more informed student body.
 
