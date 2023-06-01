@@ -2,9 +2,9 @@
 layout: post
 title: New Website Launch
 subtitle: USC launches new website
-cover-img: /assets/img/USC_logo-bk.png.jpg
-thumbnail-img: /assets/img/USC_logo-bk.png.png
-share-img: /assets/img/USC_logo-bk.png.jpg
+cover-img: /assets/img/USC_logo-bk.png
+thumbnail-img: /assets/img/USC_logo-bk.png
+share-img: /assets/img/USC_logo-bk.png
 tags: [website, blog]
 ---
 
