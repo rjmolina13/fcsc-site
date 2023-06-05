@@ -9,4 +9,3 @@ gemspec
 # gem 'tzinfo-data'
 # gem 'jekyll'
 # gem 'webrick'
-

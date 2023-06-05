@@ -425,6 +425,29 @@ footer .footer-custom-content {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+@media (prefers-color-scheme: dark) {
+  /* Dark mode styles for footer */
+  footer {
+    background-color: #333;
+    border-color: #555;
+    color: #EEE;
+  }
+  
+  footer p.text-muted {
+    color: #EEE !important;
+	opacity: 0.5
+  }
+  
+  footer a {
+    color: #EEE;
+  }
+  
+  footer a:hover,
+  footer a:focus {
+    color: #0085A1;
+  }
+}
+
 @media (min-width: 768px) {
   footer {
     padding: 3.125rem 0;
@@ -598,6 +621,24 @@ footer .footer-custom-content {
 .post-preview .blog-tags {
   margin-top: 0.3125rem;
   margin-bottom: 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  .blog-tags span {
+    color: #FFF;
+    opacity: 0.9;
+  }
+  
+    .blog-tags a {
+    color: #EEE;
+    opacity: 0.8;
+    border-color: transparent;
+  }
+  
+  .blog-tags a:hover {
+    opacity: 1;
+    color: #EEE;
+    border-color: #EEE;
 }
 
 @media (min-width: 768px) {
@@ -1117,4 +1158,43 @@ pre {
   #nav-search-text {
     display: inline-block;
   }
+}
+
+/* Auto Dark Mode Detection */
+
+@media (prefers-color-scheme: dark) {
+  /* Dark mode styles */
+  body {
+    background-color: #111;
+    color: #EEE;
+  }
+
+  /* Dark mode styles for navbar */
+  .navbar-custom {
+    background-color: #333;
+    border-bottom-color: #555;
+    color: #FFF;
+  }
+  .navbar-custom .navbar-brand,
+  .navbar-custom .navbar-nav .nav-link {
+    color: #FFF;
+  }
+
+  /* Dark mode styles for post-preview and post-meta */
+  .post-preview .post-title,
+  .post-preview .post-subtitle,
+  .post-preview .post-meta,
+  .post-heading .post-meta {
+    color: #FFF};
+  }
+
+  .post-preview .post-read-more {
+    color: #7e7e7e};
+  }
+    /* Dark mode styles for .fa-inverse */
+  .fa-inverse,
+  .fa-inverse.dark-mode {
+    color: #000;
+  }
+ 
 }
