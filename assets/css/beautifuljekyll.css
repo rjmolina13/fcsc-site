@@ -416,37 +416,13 @@ footer .copyright {
   margin-top: 0;
 }
 footer .theme-by {
-  /* text-align: center; */
-  /* margin: 0.625rem 0 0; */
-  display: none;
+  text-align: center;
+  margin: 0.625rem 0 0;
 }
 footer .footer-custom-content {
   text-align: center;
   margin-bottom: 0.9375rem;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
-
-@media (prefers-color-scheme: dark) {
-  /* Dark mode styles for footer */
-  footer {
-    background-color: #333;
-    border-color: #555;
-    color: #EEE;
-  }
-  
-  footer p.text-muted {
-    color: #EEE !important;
-	opacity: 0.5
-  }
-  
-  footer a {
-    color: #EEE;
-  }
-  
-  footer a:hover,
-  footer a:focus {
-    color: #0085A1;
-  }
 }
 
 @media (min-width: 768px) {
@@ -622,24 +598,6 @@ footer .footer-custom-content {
 .post-preview .blog-tags {
   margin-top: 0.3125rem;
   margin-bottom: 0;
-}
-
-@media (prefers-color-scheme: dark) {
-  .blog-tags span {
-    color: #FFF;
-    opacity: 0.9;
-  }
-  
-    .blog-tags a {
-    color: #EEE;
-    opacity: 0.8;
-    border-color: transparent;
-  }
-  
-  .blog-tags a:hover {
-    opacity: 1;
-    color: #EEE;
-    border-color: #EEE;
 }
 
 @media (min-width: 768px) {
@@ -1102,7 +1060,6 @@ pre {
   border: none;
   padding: 0 3rem;
 }
-
 @media (max-width: 1199px) {
   #nav-search-input {
     width: 75%;
@@ -1163,7 +1120,50 @@ pre {
   }
 }
 
+/* ----------------------------------------------- */
+
 /* Auto Dark Mode Detection */
+@media (prefers-color-scheme: dark) {
+  /* Dark mode styles for footer */
+  footer {
+    background-color: #333;
+    border-color: #555;
+    color: #EEE;
+  }
+  
+  footer p.text-muted {
+    color: #EEE !important;
+    opacity: 0.5;
+  }
+  
+  footer a {
+    color: #EEE;
+  }
+  
+  footer a:hover,
+  footer a:focus {
+    color: #0085A1;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .blog-tags span {
+    color: #FFF;
+    opacity: 0.9;
+  }
+  
+  .blog-tags a {
+    color: #EEE;
+    opacity: 0.8;
+    border-color: transparent;
+  }
+  
+  .blog-tags a:hover {
+    opacity: 1;
+    color: #EEE;
+    border-color: #EEE;
+  }
+}
 
 @media (prefers-color-scheme: dark) {
   /* Dark mode styles */
@@ -1188,19 +1188,20 @@ pre {
   .post-preview .post-subtitle,
   .post-preview .post-meta,
   .post-heading .post-meta {
-    color: #FFF};
+    color: #FFF;
   }
 
   .post-preview .post-read-more {
-    color: #7e7e7e};
+    color: #7e7e7e;
   }
-    /* Dark mode styles for .fa-inverse/footer icons */
+  
+  /* Dark mode styles for .fa-inverse/footer icons */
   .fa-inverse,
   .fa-inverse.dark-mode {
     color: #000;
   }
   
-   /* Dark mode styles for search bar */
+  /* Dark mode styles for search bar */
   #beautifuljekyll-search-overlay {
     background: rgba(0, 0, 0, 0.9);
   }
@@ -1219,16 +1220,15 @@ pre {
   }
   
   #nav-search-input:focus {
-  background: #333;
+    background: #333;
   }
   
   #nav-search-input::placeholder {
-  color: #FFF;
-  opacity: 0.8;
+    color: #FFF;
+    opacity: 0.8;
   }
   
   #nav-search-input:focus {
-  box-shadow: 0px 0.15rem 2rem #333;
+    box-shadow: 0px 0.15rem 2rem #333;
   }
- 
 }
