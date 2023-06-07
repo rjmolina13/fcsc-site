@@ -26,9 +26,10 @@ navbar-links:
     - All Orgs: "allorgs"
   Issuances: 
     - Consitution and By-Laws: "consti"
-    # - Issuances: "issuances"
     - Memorandum: "memos"
     - Resolutions: "resos"
+    - Executive Orders: "execorders"
+    - Legislative Acts: "legisacts"
   About Us: "about"
 
 ################
