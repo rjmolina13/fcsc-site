@@ -17,3 +17,17 @@ To ensure the site's quality and maintenance, the USC will be moderated by the w
 In conclusion, this new platform, powered by GitHub Pages, represents a significant step forward in promoting transparency and inclusivity within the university community. By offering a user-friendly index/catalog of essential documents, the USC empowers students to actively participate in shaping their university experience. With the help of other organizatons and other key people involved, the platform ensures the site's quality and accuracy, fostering an environment where students can make informed decisions that positively impact their education and campus life.
 
 All kinds of feedback and suggestions are welcome! Message us using our [Messenger link](https://m.me/catsufcsc).
+
+_______
+
+<details>
+  <summary><b>CICT-CSC Resolution #1</b></summary>
+  
+  <p style="margin-bottom: 1px;"></p>
+  <a href="https://github.com/rjmolina13/fcsc-site/raw/master/assets/pdf/CICT-CSC_Reso-001.pdf" target="_blank" rel="noopener noreferrer">Download soft copy</a>
+  <p style="margin-bottom: 1px;"></p>
+
+  <div style="max-width: 1000px; margin: 10px auto;">
+    <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/rjmolina13/fcsc-site/raw/master/assets/pdf/CICT-CSC_Reso-001.pdf" width="100%" height="600">
+  </div>
+</details>

@@ -11,6 +11,6 @@ Here are published and approved resolutions by organizations here in the Catandu
   <p style="margin-bottom: 1px;"></p>
 
   <div style="max-width: 1000px; margin: 10px auto;">
-    <object data="../assets/pdf/CICT-CSC_Reso-001.pdf" width="100%" height="700" type="application/pdf"></object>
+    <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/rjmolina13/fcsc-site/raw/master/assets/pdf/CICT-CSC_Reso-001.pdf" width="100%" height="600">
   </div>
 </details>
