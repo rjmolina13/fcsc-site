@@ -1,4 +1,4 @@
-# Resolutions
+<!-- # Resolutions -->
 
 Here are the published and approved resolutions of organizations here in the Catanduanes State University.
 
