@@ -1,4 +1,4 @@
-<!-- # All Recognized Organizations -->
+# All Recognized Organizations
 
 Here are all recognized organizations in Catanduanes State University.
 
