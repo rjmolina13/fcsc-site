@@ -21,7 +21,7 @@ author: Ronanj Molina
 
 navbar-links:
   Organizations:
-    - CSCs: "cscs"
+    - CSC: "cscs"
     - Sub-Orgs: "suborgs"
     - All Orgs: "allorgs"
   Issuances: 
@@ -30,6 +30,7 @@ navbar-links:
     - Resolutions: "resos"
     - Executive Orders: "execorders"
     - Legislative Acts: "legisacts"
+    - Bills: "bills"
   About Us: "about"
 
 ################
