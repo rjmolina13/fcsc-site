@@ -25,8 +25,8 @@ navbar-links:
     - Sub-Orgs: "suborgs"
     - All Orgs: "allorgs"
   Issuances: 
-    - Consitution and By-Laws: "consti"
-    - Memorandum: "memos"
+    - Consitution and By-Laws: "cbl"
+    - Memoranda: "memos"
     - Resolutions: "resos"
     - Executive Orders: "execorders"
     - Legislative Acts: "legisacts"
