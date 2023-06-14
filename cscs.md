@@ -1,4 +1,4 @@
-## CSCs
+<!-- ## CSCs -->
 
 College Student Councils or CSCs operate at every college department. Every college has one and can only have one.
 
