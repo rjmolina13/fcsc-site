@@ -24,8 +24,8 @@ navbar-links:
   Organizations:
     - CSC: "cscs"
       # - Rooster: "rooster"
-      - Officers:
-          - List of Officers: "officers"
+      # - Officers:
+      #     - List of Officers: "officers"
     - Sub-Orgs: "suborgs"
     - All Orgs: "allorgs"
   Issuances: 
