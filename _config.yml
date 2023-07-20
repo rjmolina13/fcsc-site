@@ -18,10 +18,13 @@ author: Ronanj Molina
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
+# port: 4001
 
 navbar-links:
   Organizations:
     - CSC: "cscs"
+      Officers:
+        - List of Officers: "officers"
     - Sub-Orgs: "suborgs"
     - All Orgs: "allorgs"
   Issuances: 
