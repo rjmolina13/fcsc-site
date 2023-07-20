@@ -23,7 +23,6 @@ author: Ronanj Molina
 navbar-links:
   Organizations:
     - CSC: "cscs"
-      Officers:
           - List of Officers: "officers"
     - Sub-Orgs: "suborgs"
     - All Orgs: "allorgs"
