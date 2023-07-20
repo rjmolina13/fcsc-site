@@ -23,7 +23,7 @@ author: Ronanj Molina
 navbar-links:
   Organizations:
     - CSC: "cscs"
-      - Rooster: "rooster"
+      # - Rooster: "rooster"
       - Officers:
           - List of Officers: "officers"
     - Sub-Orgs: "suborgs"
