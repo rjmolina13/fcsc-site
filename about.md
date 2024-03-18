@@ -15,7 +15,8 @@ The *Student Pavilion* is situated next to the *College of Health Sciences* and 
   <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d261.95698931234546!2d124.21077790719542!3d13.583006900000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a016ef9a06e9a9%3A0xeacd817b484fb300!2sCSC%20Main%20Entrance%20Rd%2C%20Virac%2C%20Catanduanes!5e1!3m2!1sen!2sph!4v1685523959187!5m2!1sen!2sph" width="100%" height="450" style="border:0;" allowfullscreen="1" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
 </div>
 
+<script src="https://kit.fontawesome.com/0456291edc.js" crossorigin="anonymous"></script>
 
 
 # Contact Us
-You may contact us at our [Email Address](mailto:catsufedstudentcouncil@gmail.com) and our [Facebook](www.facebook.com/catsufcsc).
+You may contact us at our <a href="mailto:catsufedstudentcouncil@gmail.com"><i class="fa-solid fa-envelope"></i> Email Address</a> or through our <a href="https://www.facebook.com/catsuUSC"><i class="fa-brands fa-facebook-f"></i> Facebook Page</a>.
