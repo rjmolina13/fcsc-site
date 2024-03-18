@@ -4,11 +4,11 @@ title: All Orgs
 subtitle: All Recognized Ogranizations
 ---
 
-# All Recognized Organizations
+<!-- # All Recognized Organizations -->
 
 Here are all recognized organizations in Catanduanes State University.
 
-### All Organizations
+<!-- ### All Organizations -->
 
 - University Student Council **(USC)**
 - College of Agriculture and Fisheries - College Student Council **(CAF-CSC)**

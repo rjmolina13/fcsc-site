@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Accomplishment Report
-subtitle:
+title: AR
+subtitle: Accomplishment Report
 ---
 
 <!-- # Accomplishment Report -->
