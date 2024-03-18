@@ -23,7 +23,7 @@ author: Ronanj Molina
 navbar-links:
   Organizations:
     - CSC: "cscs"
-          - List of Officers: "officers"
+          # - List of Officers: "officers"
     - Sub-Orgs: "suborgs"
     - All Orgs: "allorgs"
   Issuances: 
@@ -33,6 +33,8 @@ navbar-links:
     - Executive Orders: "execorders"
     - Legislative Acts: "legisacts"
     - Bills: "bills"
+  Accomplishment Report: "ar"
+  Activities: "acts"
   About Us: "about"
 
 ################
@@ -303,7 +305,9 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  # - jekyll-remote-theme
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-# theme: beautiful-jekyll-theme
+theme: beautiful-jekyll-theme
+# remote_theme: daattali/beautiful-jekyll@6.0.1
