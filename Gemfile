@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-gemspec
+# gemspec
 
 # When running locally, comment these below
 # uncomment line 9, 12, 14, 15, 16
