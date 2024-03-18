@@ -4,10 +4,15 @@ source "https://rubygems.org"
 
 gemspec
 
-gem "beautiful-jekyll-theme"
-# gem "jekyll-remote-theme"
-gem 'jekyll'
+# When running locally, comment these below
+# gem "beautiful-jekyll-theme"
 
-gem 'wdm'
-gem 'tzinfo-data'
-gem 'webrick'
+# gem "beautiful-jekyll-theme", "5.0.0"
+# gem 'jekyll'
+
+# gem 'wdm'
+# gem 'tzinfo-data'
+# gem 'webrick'
+
+# Remote Theme
+# gem "jekyll-remote-theme"
