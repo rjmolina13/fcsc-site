@@ -1,4 +1,10 @@
-### Sub-Organizations
+---
+layout: page
+title: Sub-orgs
+subtitle: All Recognized Sub-organizations
+---
+
+<!-- ### Sub-Organizations -->
 
 
 Here are all recognized *Sub-organizations* under each CSC.

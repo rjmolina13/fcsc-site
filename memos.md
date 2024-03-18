@@ -1,4 +1,10 @@
-# Memoranda
+---
+layout: page
+title: Memoranda
+subtitle:
+---
+
+<!-- # Memoranda -->
 
 Here are the published and approved memoranda of the *University Student Council*, sorted chronologically. 
 

@@ -1,3 +1,9 @@
+---
+layout: page
+title: All Orgs
+subtitle: All Recognized Ogranizations
+---
+
 # All Recognized Organizations
 
 Here are all recognized organizations in Catanduanes State University.
