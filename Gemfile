@@ -5,7 +5,7 @@ source "https://rubygems.org"
 gemspec
 
 gem "beautiful-jekyll-theme"
-gem "jekyll-remote-theme"
+# gem "jekyll-remote-theme"
 gem 'jekyll'
 
 gem 'wdm'
